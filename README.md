@@ -14,4 +14,4 @@
 # RUN SCRIPT 
   cd BruteFace
 
-  python Brute.py
+  python2 Brute.py
